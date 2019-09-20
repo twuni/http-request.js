@@ -1,4 +1,4 @@
-# Measured.js
+# @twuni/http-request
 
 [![CircleCI][1]][2]
 [![npm version][3]][4]
